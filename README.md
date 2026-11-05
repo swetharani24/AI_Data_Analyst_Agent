@@ -297,6 +297,4 @@ This project reflects my approach to engineering: automate repetitive analytical
 
 ---
 
-⭐ If you find this project interesting, feel free to explore the repository and share your feedback.
 
-**Built with Python, Agentic AI, and a passion for solving real-world problems.**
