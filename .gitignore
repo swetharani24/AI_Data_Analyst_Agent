@@ -1,0 +1,17 @@
+# Python environment
+.venv/
+__pycache__/
+*.pyc
+
+# API keys and secrets
+.env
+.env.*
+api_key
+api_key.*
+.streamlit/secrets.toml
+
+# IDE files
+.idea/
+
+# Other
+.DS_Store
